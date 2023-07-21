@@ -15,14 +15,10 @@
 📈 I also like to follow the Brazilian and North American Stocks and Cryptos Markets
 
 📲 Feel free to get in touch via [e-mail](renanwt@gmail.com) or [LinkedIn](https://www.linkedin.com/in/renan-teixeira-1006883b/)
+<h2></h2>
 
-##
- <div>
-  <a href="https://github.com/renanwt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanwt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanwt&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
+### :key: Tech Experience
+
 <div style="display: inline_block"><br>  
   <img align="center" alt="renanwt-py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="renanwt-c#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -36,6 +32,15 @@
   <img align="center" alt="renanwt-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="renanwt-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">  
 </div>
+
+##
+ <div>
+  <a href="https://github.com/renanwt">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanwt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanwt&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
   
   ##
   
