@@ -1,4 +1,4 @@
-## ♠️ I'm Renan! Welcome to my github! ♠️
+## ♠️ Welcome! I'm Renan! ♠️
 
 ###  🏁 About me
 
