@@ -21,7 +21,7 @@
 
 <div style="display: inline_block"><br>  
   <img align="center" alt="renanwt-py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="renanwt-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
+  <img align="center" alt="renanwt-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
   <img align="center" alt="renanwt-c#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="renanwt-go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="renanwt-vs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
