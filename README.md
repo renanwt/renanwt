@@ -6,7 +6,7 @@
 
 🔧 I'm graduated in Electrical/Telecommunications Engineering since 2010
 
-💻 I started programming in feb-2022. Currently I'm developing my **Backend** skills focusing on **Python**
+💻 I started programming in feb-2022. Currently I'm developing my **Backend** skills focusing on **Python** and **LLM*
 
 📑 **AWS Cloud Practitioner Certified** - Dec/2022 to Dec/2025
 
