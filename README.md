@@ -4,7 +4,7 @@
 
 💛 I'm Brazilian since I was born 😄
 
-🔧 I'm graduated in Electrical/Telecommunications Engineering since 2010
+🔧 I'm graduated in Electrical/Telecommunications Engineering - 2010
 
 💻 I started programming in feb-2022. Currently I'm developing my **Backend** skills focusing on **Python** and **LLM*
 
